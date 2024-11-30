@@ -1,0 +1,227 @@
+case_id,age,age_group,calender_year,gender,address,address_zoba,symptomes,duration,specimen,symptomes_standardized,dysphagia,malaise,headache,diarrhea,epigastric_pain,blood_vomit,peptic_ulcer,GERD,bleeding,melena,swelling,malignant_not,report_diagnosis,diagnosis_category,adenocarcinoma_subtype,other_malignancy_subtype,grade,non_neoplastic_subtype
+1,20,20-24,2013,Male,Dbarwa,Debub,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Acute Gastrtitis,Non-Neoplastic Diseases,"","","",Acute Gastritis
+2,47,45-49,2020,Male,Asmara,Maekel,vomitin; EGP,11,Gastric,vomiting;epigastric_pain,No,No,No,No,Yes,No,No,No,No,No,No,Malignant,Well differentiated Adenocarcinoma,Adenocarcinoma,Unspecified,"",Grade 1,""
+3,73,70-74,2019,Male,Mensura,Anseba,EGP,,Gastric,epigastric_pain,No,No,No,No,Yes,No,No,No,No,No,No,Malignant,Well differentiated adenocarcinoma,Adenocarcinoma,Unspecified,"",Grade 1,""
+4,64,60-64,2011,Female,Assab,SRS,None documented,,Distal Esophageal & Gastric,,,,,,,,,,,,,Malignant,Well differentiated squmous cell carcinoma,Squamous Cell Carcinoma,"","",Grade 1,""
+5,75,75-79,2020,Male,Keren,Anseba,bleeding vomiting,,Gastric,,,,,,,,,,,,,Malignant,Moderately differentiated adenocarcinoma,Adenocarcinoma,Unspecified,"",Grade 2,""
+6,33,30-34,2021,Female,Dekemhare,Debub,ulcer,,Gastric,peptic_ulcer,No,No,No,No,No,No,Yes,No,No,No,No,Malignant,Moderately differentiated carcinoma,Adenocarcinoma,Unspecified,"",Grade 2,""
+7,30,30-34,2014,Female,Nakfa,NRS,DYSPHAGIA,,Gastric,dysphagia,Yes,No,No,No,No,No,No,No,No,No,No,Malignant,MODERATELY DIFFERENTIATED SQUAMOUS CELL CARCINOMA,Squamous Cell Carcinoma,"","",Grade 2,""
+8,40,40-44,2014,Female,AFABET,NRS,DYSPHAGIA AND WEIGHT LOSS,,Distal Esophageal & Gastric,,,,,,,,,,,,,Malignant,MODERATELY DIFFERENTIATED SQUAMOUS CELL CARCINOMA,Squamous Cell Carcinoma,"","",Grade 2,""
+9,50,50-54,2021,Female,Asmara,Maekel,EGP; weight loss; dysphagea,,Distal Esophageal & Gastric,,,,,,,,,,,,,Malignant,Moderately differnetiated adenocarcinoma,Adenocarcinoma,Unspecified,"",Grade 2,""
+10,67,65-69,2021,Male,Asmara,Maekel,blood vomit;,1,Gastric,,,,,,,,,,,,,Malignant,Moderately differnetiated adenocarcinoma,Adenocarcinoma,Unspecified,"",Grade 2,""
+11,33,30-34,2021,Female,Dekemhare,Debub,Abdo pain; nausea; edema,,Gastric,,,,,,,,,,,,,Malignant,Moderately differnetiated adenocarcinoma,Adenocarcinoma,Unspecified,"",Grade 2,""
+12,60,60-64,2021,Male,Keren,Anseba,EGP: nausea,,Distal Esophageal & Gastric,,,,,,,,,,,,,Malignant,Moderately differnetiated inflitrating adenocarcinoma,Adenocarcinoma,Unspecified,"",Grade 2,""
+13,73,70-74,2020,Male,Asmara,Maekel,stomach ulcer,,Gastric,,,,,,,,,,,,,Malignant,Mucinous adenocarcinoma,Adenocarcinoma,Mucinous Adenocarcinoma,"",Grade 3,""
+14,80,80-84,2016,Female,Asmara,Maekel,DYSPHAGIA,,Gastric,dysphagia,Yes,No,No,No,No,No,No,No,No,No,No,Malignant,POORLY DEFERENTIATED SQUAMOUS CELL CARCINOMA,Squamous Cell Carcinoma,"","",Grade 3,""
+15,80,80-84,2020,Female,Asmara,Maekel,EGP; Vomiting,4,Gastric,epigastric_pain;vomiting,No,No,No,No,Yes,No,No,No,No,No,No,Malignant,Poorly differentiated adenocarcinoma,Adenocarcinoma,Unspecified,"",Grade 3,""
+16,45,45-49,2021,Male,Asmara,Maekel,vomiting; abdominal pain,,Gastric,,,,,,,,,,,,,Malignant,Poorly differentiated adenocarcinoma,Adenocarcinoma,Unspecified,"",Grade 3,""
+17,70,70-74,2021,Female,Gash Barka,Gash Barka,Dysphagea; EGP; swelling,2,Gastric,dysphagia;epigastric_pain;swelling,Yes,No,No,No,Yes,No,No,No,No,No,Yes,Malignant,Poorly differentiated adenocarcinoma,Adenocarcinoma,Unspecified,"",Grade 3,""
+18,94,90-94,2014,Male,Adi Keyh,Debub,None documented,,Gastric,,,,,,,,,,,,,Malignant,Poorly differentiated carcinoma,Other Malignancies,"",Anaplastic Gastric cancer,Grade 3,""
+19,42,40-44,2014,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,Poorly differentiated carcinoma,Other Malignancies,"",Anaplastic Gastric cancer,Grade 3,""
+20,70,70-74,2021,Male,Asmara,Maekel,vomiting; weight loss,,Gastric,,,,,,,,,,,,,Malignant,Poorly differentiated carcinoma,Other Malignancies,"",Anaplastic Gastric cancer,Grade 3,""
+21,37,35-39,2021,Female,Beleza,Maekel,EGP; hemetesis,,Gastric,epigastric_pain;blood_vomit,No,No,No,No,Yes,Yes,No,No,No,No,No,Malignant,poorly differentiatede adenocarcinoma,Adenocarcinoma,Unspecified,"",Grade 3,""
+22,65,65-69,2021,Male,Elaberd,Anseba,hemetemesis; melana,,Gastric,blood_vomit;melena,No,No,No,No,No,Yes,No,No,No,Yes,No,Malignant,poorly differentiatede Carcinoma,Other Malignancies,"",Anaplastic Gastric cancer,Grade 3,""
+23,40,40-44,2019,Female,Asmara,Maekel,EGP; Dysphagia; vomiting,,Gastric,epigastric_pain;dysphagia;vomiting,Yes,No,No,No,Yes,No,No,No,No,No,No,Malignant,Poorly differetiated Mucinous adenocarcinoma,Adenocarcinoma,Mucinous Adenocarcinoma,"",Grade 3,""
+24,40,40-44,2019,Female,Mendefera,Debub,Vomiitng; malaise; weight loss,,Gastric,,,,,,,,,,,,,Malignant,Signet ring cell carcinoma of gastric,Adenocarcinoma,Signet ring cell carcinoma,"",Grade 3,""
+25,45,45-49,2017,Male,Asmara,Maekel,None documented,,Distal Esophageal & Gastric,,,,,,,,,,,,,Malignant,unidfferentiate carcinoma,Other Malignancies,"",Anaplastic Gastric cancer,Grade 3,""
+26,20,20-24,2013,Female,Massawa,NRS,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Asymptomatic gastritis,Non-Neoplastic Diseases,"","","",Unspecified Gastritis
+27,48,45-49,2017,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Atrophic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+28,42,40-44,2017,Male,NRS,NRS,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Atrophic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+29,23,20-24,2013,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,atrophy,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+30,55,55-59,2014,Female,Gergef,Gash Barka,None documented,,Gastric,,,,,,,,,,,,,Malignant,unidifferentiated carcinoma,Other Malignancies,"",Anaplastic Gastric cancer,Grade 3,""
+31,57,55-59,2017,Male,Keren,Anseba,None documented,,Gastric,,,,,,,,,,,,,Malignant,analplastic malignant tumor,Other Malignancies,"",Anaplastic Gastric cancer,Grade 4,""
+32,70,70-74,2017,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,badly differentiaed carcinoma,Other Malignancies,"",Anaplastic Gastric cancer,Grade 4,""
+33,23,20-24,2017,Female,Barentu,Gash Barka,None documented,,Gastric,,,,,,,,,,,,,Malignant,badly differentiaed carcinoma,Other Malignancies,"",Anaplastic Gastric cancer,Grade 4,""
+34,67,65-69,2019,Male,Asmara,Maekel,Depression & EGP,,Gastric,,,,,,,,,,,,,Malignant,gastric badly differentiated carcinoma of diffuse growth,Adenocarcinoma,Intestinal/Diffuse Adenocarcinoma,"",Grade 4,""
+35,64,60-64,2017,Female,Ade Asfeda,Debub,None documented,,Gastric,,,,,,,,,,,,,Malignant,Adenocarcinoma,Adenocarcinoma,Unspecified,"",Unspecified,""
+36,58,55-59,2012,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,Adenocarcinoma,Adenocarcinoma,Unspecified,"",Unspecified,""
+37,38,35-39,2021,Female,Adi guadad,Maekel,diaarhea; weight loss,,Gastric,,,,,,,,,,,,,Not Malignant,Celiac disease,Non-Neoplastic Diseases,"","","",Celiac Disease
+38,19,15-19,2021,Female,Adi shmagle,Debub,diarhhea,156,Gastric,diarrhea,No,No,No,Yes,No,No,No,No,No,No,No,Not Malignant,Celiac disease,Non-Neoplastic Diseases,"","","",Celiac Disease
+39,40,40-44,2021,Male,Asmara,Maekel,peptic ulcer,,Gastric,,,,,,,,,,,,,Not Malignant,Chroic gastrtits,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+40,46,45-49,2018,Male,Ala,Debub,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic atrophic  gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+41,15,15-19,2013,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic atrophic gastrtiris,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+42,66,65-69,2020,Female,Asmara,Maekel,EGP; weight loss,2,Gastric,,,,,,,,,,,,,Not Malignant,Chronic duodenatis,Non-Neoplastic Diseases,"","","",Chronic Duodenitis
+43,38,35-39,2018,Male,Adi Keyh,Debub,None documented,,"",,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+44,47,45-49,2013,Male,Anseba,Anseba,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+45,31,30-34,2017,Male,Anseba,Anseba,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+46,28,25-29,2017,Male,Antore,Gash Barka,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+47,25,25-29,2011,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+48,56,55-59,2011,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+49,82,80-84,2011,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+50,74,70-74,2012,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+51,48,45-49,2012,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+52,28,25-29,2012,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+53,60,60-64,2012,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+54,28,25-29,2012,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+55,69,65-69,2012,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+56,63,60-64,2012,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+57,83,80-84,2013,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+58,26,25-29,2013,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+59,65,65-69,2013,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+60,57,55-59,2013,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+61,55,55-59,2013,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+62,24,20-24,2013,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+63,38,35-39,2013,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+64,43,40-44,2013,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+65,43,40-44,2014,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+66,43,40-44,2016,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+67,46,45-49,2016,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+68,49,45-49,2017,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+69,26,25-29,2017,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+70,65,65-69,2017,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic Gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+71,27,25-29,2018,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+72,35,35-39,2018,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+73,44,40-44,2018,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+74,27,25-29,2018,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+75,23,20-24,2019,Female,Asmara,Maekel,EGP; Dysphagia,,Gastric,epigastric_pain;dysphagia,Yes,No,No,No,Yes,No,No,No,No,No,No,Not Malignant,Chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+76,40,40-44,2020,Male,Asmara,Maekel,pain n vomiting,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+77,45,45-49,2020,Female,Asmara,Maekel,vomiting,,Gastric,vomiting,No,No,No,No,No,No,No,No,No,No,No,Not Malignant,Chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+78,82,80-84,2011,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+79,60,60-64,2013,Male,Asmat,Anseba,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+80,65,65-69,2013,Female,Debub,Debub,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+81,60,60-64,2016,Female,Debub,Debub,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+82,89,85-89,2020,Female,Dekemhare,Debub,EGP; weight loss; apetite loss,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+83,65,65-69,2011,Male,Keren,Anseba,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+84,67,65-69,2012,Male,Keren,Anseba,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+85,75,75-79,2011,Male,Keru,Gash Barka,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+86,36,35-39,2011,Male,Massawa,NRS,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+87,30,30-34,2020,Male,Melebso,Anseba,EGP,,Gastric,epigastric_pain,No,No,No,No,Yes,No,No,No,No,No,No,Not Malignant,Chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+88,56,55-59,2013,Male,Meo,NRS,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+89,20,20-24,2018,Female,Sawa,Gash Barka,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+90,55,55-59,2011,Male,Tesseny,Gash Barka,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+91,45,45-49,2013,Female,Tsorona,Debub,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,chronic gastritis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+92,20,20-24,2014,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastrtiis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+93,40,40-44,2014,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastrtiis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+94,53,50-54,2014,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastrtiis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+95,43,40-44,2014,Male,Gash Barka,Gash Barka,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastrtiis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+96,64,60-64,2020,Female,Keren,Anseba,vomiting,6,Gastric,vomiting,No,No,No,No,No,No,No,No,No,No,No,Not Malignant,Chronic gastrtiis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+97,44,40-44,2013,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,Adenocarcinoma,Adenocarcinoma,Unspecified,"",Unspecified,""
+98,30,30-34,2019,Female,Adi baro,Debub,Vomiitng; malaise; weight loss,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastrtis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+99,22,20-24,2021,Male,Asmara,Maekel,EGP; vomitinng,,Gastric,epigastric_pain;vomiting,No,No,No,No,Yes,No,No,No,No,No,No,Not Malignant,Chronic gastrtis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+100,31,30-34,2021,Male,Asmara,Maekel,EGP; GERD,,Gastric,epigastric_pain;GERD,No,No,No,No,Yes,No,No,Yes,No,No,No,Not Malignant,Chronic gastrtis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+101,51,50-54,2021,Male,Asmara,Maekel,pain abd.,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastrtis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+102,19,15-19,2021,Female,May godf,Debub,Blood vomit; melena; EGP,12,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastrtis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+103,48,45-49,2021,Male,Torat,Debub,gastrocutaneous fistula,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastrtis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+104,55,55-59,2017,Male,Anseba,Anseba,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic Gastrtitis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+105,48,45-49,2017,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic Gastrtitis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+106,68,65-69,2013,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,Adenocarcinoma,Adenocarcinoma,Unspecified,"",Unspecified,""
+107,68,65-69,2014,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastrtitis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+108,56,55-59,2016,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastrtitis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+109,25,25-29,2017,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic Gastrtitis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+110,62,60-64,2017,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic Gastrtitis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+111,54,50-54,2017,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic Gastrtitis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+112,20,20-24,2017,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic Gastrtitis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+113,41,40-44,2016,Male,Debub,Debub,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastrtitis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+114,23,20-24,2014,Female,Dekishhay,Debub,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastrtitis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+115,69,65-69,2016,Male,Keren,Anseba,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastrtitis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+116,59,55-59,2016,Male,NRS,NRS,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic gastrtitis,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+117,28,25-29,2020,Female,Asmara,Maekel,vomiting,,Gastric,vomiting,No,No,No,No,No,No,No,No,No,No,No,Not Malignant,Chronic gastrtits,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+118,42,40-44,2020,Female,Asmara,Maekel,abdominal pain; vomiting,,Gastric,,,,,,,,,,,,,Not Malignant,Chronic inflmmation,Non-Neoplastic Diseases,"","","",Chronic Gastritis
+119,59,55-59,2019,Male,Asmara,Maekel,ulcer,,Gastric,peptic_ulcer,No,No,No,No,No,No,Yes,No,No,No,No,Not Malignant,Chronic ulcer,Non-Neoplastic Diseases,"","","",Gastric Ulcer
+120,35,35-39,2014,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,Adenocarcinoma,Adenocarcinoma,Unspecified,"",Unspecified,""
+121,54,50-54,2021,Female,afdeyu,Maekel,diarhea,84,Gastric,diarrhea,No,No,No,Yes,No,No,No,No,No,No,No,Not Malignant,Duodenitis,Non-Neoplastic Diseases,"","","",Chronic Duodenitis
+122,18,15-19,2021,Female,Asmara,Maekel,diarrhea; weight loss,,Gastric,,,,,,,,,,,,,Not Malignant,Duodenitis,Non-Neoplastic Diseases,"","","",Chronic Duodenitis
+123,37,35-39,2021,Male,Debub,Debub,diabetic; watery diarrhea,2,Gastric,,,,,,,,,,,,,Not Malignant,Duodenitis,Non-Neoplastic Diseases,"","","",Chronic Duodenitis
+124,75,75-79,2014,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,Adenocarcinoma,Adenocarcinoma,Unspecified,"",Unspecified,""
+125,68,65-69,2016,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,Adenocarcinoma,Adenocarcinoma,Unspecified,"",Unspecified,""
+126,65,65-69,2016,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,Adenocarcinoma,Adenocarcinoma,Unspecified,"",Unspecified,""
+127,61,60-64,2016,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,Adenocarcinoma,Adenocarcinoma,Unspecified,"",Unspecified,""
+128,70,70-74,2017,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,Adenocarcinoma,Adenocarcinoma,Unspecified,"",Unspecified,""
+129,53,50-54,2018,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,Adenocarcinoma,Adenocarcinoma,Unspecified,"",Unspecified,""
+130,57,55-59,2018,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,adenocarcinoma,Adenocarcinoma,Unspecified,"",Unspecified,""
+131,50,50-54,2014,Male,Barentu,Gash Barka,None documented,,Gastric,,,,,,,,,,,,,Malignant,Adenocarcinoma,Adenocarcinoma,Unspecified,"",Unspecified,""
+132,60,60-64,2018,Male,Foro,NRS,None documented,,Gastric,,,,,,,,,,,,,Malignant,Adenocarcinoma,Adenocarcinoma,Unspecified,"",Unspecified,""
+133,60,60-64,2012,Female,Dbarwa,Debub,None documented,,Distal Esophageal & Gastric,,,,,,,,,,,,,Not Malignant,Gastric polyp,Benign Neoplasms,"","","",""
+134,46,45-49,2018,Female,Gash Barka,Gash Barka,None documented,,Gastric,,,,,,,,,,,,,Malignant,Adenocarcinoma,Adenocarcinoma,Unspecified,"",Unspecified,""
+135,38,35-39,2011,Male,Adi Quala,Debub,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Gastric ulcer,Non-Neoplastic Diseases,"","","",Gastric Ulcer
+136,70,70-74,2011,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Gastric ulcer,Non-Neoplastic Diseases,"","","",Gastric Ulcer
+137,64,60-64,2011,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Gastric ulcer,Non-Neoplastic Diseases,"","","",Gastric Ulcer
+138,57,55-59,2012,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Gastric ulcer,Non-Neoplastic Diseases,"","","",Gastric Ulcer
+139,30,30-34,2020,Male,Melebso,Anseba,Dyspepsia; EGP;,,Gastric,,,,,,,,,,,,,Not Malignant,Gastric ulcer,Non-Neoplastic Diseases,"","","",Gastric Ulcer
+140,64,60-64,2013,Male,Adi Quala,Debub,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Gastric Ulcus,Non-Neoplastic Diseases,"","","",Gastric Ulcer
+141,55,55-59,2014,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Gastritis,Non-Neoplastic Diseases,"","","",Unspecified Gastritis
+142,55,55-59,2017,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Gastrtitis,Non-Neoplastic Diseases,"","","",Unspecified Gastritis
+143,40,40-44,2017,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Gastrtitis,Non-Neoplastic Diseases,"","","",Unspecified Gastritis
+144,65,65-69,2017,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Gastrtitis,Non-Neoplastic Diseases,"","","",Unspecified Gastritis
+145,21,20-24,2017,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Gastrtitis,Non-Neoplastic Diseases,"","","",Unspecified Gastritis
+146,60,60-64,2021,Female,Degra libie,Debub,Vomiting; bleeding,,Gastric,vomiting;bleeding,No,No,No,No,No,No,No,No,Yes,No,No,Not Malignant,Gastrtitis,Non-Neoplastic Diseases,"","","",Unspecified Gastritis
+147,62,60-64,2013,Male,Golj,Gash Barka,None documented,,Gastric,,,,,,,,,,,,,Malignant,Adenocarcinoma,Adenocarcinoma,Unspecified,"",Unspecified,""
+148,72,70-74,2018,Male,hagaz,Anseba,None documented,,Gastric,,,,,,,,,,,,,Malignant,Adenocarcinoma,Adenocarcinoma,Unspecified,"",Unspecified,""
+149,77,75-79,2017,Male,Himberti,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,adenocarcinoma,Adenocarcinoma,Unspecified,"",Unspecified,""
+150,83,80-84,2014,Male,Keren,Anseba,None documented,,Gastric,,,,,,,,,,,,,Malignant,Adenocarcinoma,Adenocarcinoma,Unspecified,"",Unspecified,""
+151,82,80-84,2017,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,hyperplasia,Benign Neoplasms,"","","",""
+152,49,45-49,2011,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Hyperplastic polyp,Benign Neoplasms,"","","",""
+153,19,15-19,2014,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Hyperplastic polyp,Benign Neoplasms,"","","",""
+154,55,55-59,2020,Male,Asmara,Maekel,Weight loss; nausea; EGP,,Gastric,,,,,,,,,,,,,Not diagnostic,Indiagnostic,Indeterminate or Poor Sample Quality,"","","",""
+155,67,65-69,2021,Male,Asmara,Maekel,hemetemesis,,Gastric,blood_vomit,No,No,No,No,No,Yes,No,No,No,No,No,Not Malignant,intestinal metalasis; gastrtiis,Non-Neoplastic Diseases,"","","",Intestinal Metaplasia
+156,63,60-64,2014,Male,Keren,Anseba,None documented,,Gastric,,,,,,,,,,,,,Malignant,Adenocarcinoma,Adenocarcinoma,Unspecified,"",Unspecified,""
+157,40,40-44,2016,Male,NRS,NRS,None documented,,Gastric,,,,,,,,,,,,,Malignant,Adenocarcinoma,Adenocarcinoma,Unspecified,"",Unspecified,""
+158,55,55-59,2021,Female,Senafe,Debub,Vomiting; weight loss,,Gastric,,,,,,,,,,,,,Malignant,Adenocarcinoma,Adenocarcinoma,Unspecified,"",Unspecified,""
+159,52,50-54,2012,Male,Tesseney,Gash Barka,None documented,,Gastric,,,,,,,,,,,,,Malignant,Adenocarcinoma,Adenocarcinoma,Unspecified,"",Unspecified,""
+160,75,75-79,2014,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,B-cell Lymphoma,Lymphoma,"","",Unspecified,""
+161,66,65-69,2011,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,Carcinoma,Other Malignancies,"",Unspecified,Unspecified,""
+162,85,85-89,2014,Male,Gash Barka,Gash Barka,None documented,,Gastric,,,,,,,,,,,,,Malignant,Carcinoma,Other Malignancies,"",Unspecified,Unspecified,""
+163,25,25-29,2021,Female,Asmara,Maekel,EGP; vomit,7,Gastric,epigastric_pain;vomiting,No,No,No,No,Yes,No,No,No,No,No,No,Not Malignant,mild gastrtitis,Non-Neoplastic Diseases,"","","",Unspecified Gastritis
+164,54,50-54,2013,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,Carcinoma unclassified,Other Malignancies,"",Unspecified,Unspecified,""
+165,66,65-69,2018,Female,Mensura,Anseba,None documented,,Gastric,,,,,,,,,,,,,Malignant,Carcinoma unclassified,Other Malignancies,"",Unspecified,Unspecified,""
+166,60,60-64,2021,Male,Aderde,Gash Barka,malise; Headache,,Gastric,malaise;headache,No,Yes,Yes,No,No,No,No,No,No,No,No,Malignant,Chronic gastrtis,Non-Neoplastic Diseases,"","",Unspecified,Chronic Gastritis
+167,45,45-49,2017,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,Chronic Gastrtitis,Non-Neoplastic Diseases,"","",Unspecified,Chronic Gastritis
+168,67,65-69,2021,Female,Asmara,Maekel,EGP;,7,Gastric,,,,,,,,,,,,,Malignant,Diffuse carcinoma gastric,Adenocarcinoma,Intestinal/Diffuse Adenocarcinoma,"",Unspecified,""
+169,50,50-54,2019,Male,Asmara,Maekel,EGP; Hemetemisis,,Gastric,epigastric_pain;blood_vomit,No,No,No,No,Yes,Yes,No,No,No,No,No,Malignant,Gastrci Lymphoma,Lymphoma,"","",Unspecified,""
+170,45,45-49,2014,Male,Adi Keyh,Debub,None documented,,Gastric,,,,,,,,,,,,,Malignant,Gastric Carcinoma,Other Malignancies,"",Unspecified,Unspecified,""
+171,47,45-49,2011,Male,Asmara,Maekel,"abd. Dist, EGP; v",,Gastric,,,,,,,,,,,,,Malignant,Gastric Carcinoma,Other Malignancies,"",Unspecified,Unspecified,""
+172,83,80-84,2014,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,Gastric carcinoma,Other Malignancies,"",Unspecified,Unspecified,""
+173,65,65-69,2011,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Normal,Normal Findings,"","","",""
+174,80,80-84,2011,Male,Dekemhare,Debub,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Normal,Normal Findings,"","","",""
+175,60,60-64,2014,Male,Gash Barka,Gash Barka,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Normal,Normal Findings,"","","",""
+176,32,30-34,2014,Male,Anseba,Anseba,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Normal,Normal Findings,"","","",""
+177,48,45-49,2014,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,Gastric Carcinoma,Other Malignancies,"",Unspecified,Unspecified,""
+178,60,60-64,2021,Male,tesseney,Gash Barka,PVD perforation,,Gastric,,,,,,,,,,,,,Not Malignant,Perotinitis,Other Conditions,"","","",""
+179,34,30-34,2014,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not diagnostic,POOR SAMPLE,Indeterminate or Poor Sample Quality,"","","",""
+180,57,55-59,2017,Male,NRS,NRS,None documented,,Gastric,,,,,,,,,,,,,Not diagnostic,POOR SAMPLE,Indeterminate or Poor Sample Quality,"","","",""
+181,52,50-54,2011,Female,Debub,Debub,None documented,,Gastric,,,,,,,,,,,,,Malignant,gastric carcinoma diffuse type,Adenocarcinoma,Intestinal/Diffuse Adenocarcinoma,"",Unspecified,""
+182,50,50-54,2021,Female,Tseazega,Debub,EGP; vomiting,,Gastric,epigastric_pain;vomiting,No,No,No,No,Yes,No,No,No,No,No,No,Malignant,gastric carcinoma diffuse type,Adenocarcinoma,Intestinal/Diffuse Adenocarcinoma,"",Unspecified,""
+183,48,45-49,2016,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,Gastric Lymphoma,Lymphoma,"","",Unspecified,""
+184,40,40-44,2020,Female,Mai Edaga,Debub,EGP; Vomiting,12,Gastric,epigastric_pain;vomiting,No,No,No,No,Yes,No,No,No,No,No,No,Malignant,gastric signet cell carcionma,Adenocarcinoma,Signet ring cell carcinoma,"",Unspecified,""
+185,60,60-64,2018,Female,Barentu,Gash Barka,None documented,,Gastric,,,,,,,,,,,,,Malignant,GIST,Other Malignancies,"",GIST,Unspecified,""
+186,53,50-54,2018,Female,Dbarwa,Debub,None documented,,Gastric,,,,,,,,,,,,,Malignant,GIST,Other Malignancies,"",GIST,Unspecified,""
+187,62,60-64,2021,Male,Sawa,Gash Barka,polyp,,Gastric,polyp,No,No,No,No,No,No,No,No,No,No,No,Malignant,GIST,Other Malignancies,"",GIST,Unspecified,""
+188,42,40-44,2013,Male,Wia,NRS,None documented,,Gastric,,,,,,,,,,,,,Malignant,GIST,Other Malignancies,"",GIST,Unspecified,""
+189,67,65-69,2013,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,Large cell lymphoma,Lymphoma,"","",Unspecified,""
+190,29,25-29,2012,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,Lymphoma,Lymphoma,"","",Unspecified,""
+191,21,20-24,2017,Male,Assab,SRS,None documented,,Gastric,,,,,,,,,,,,,Not diagnostic,Poorsample,Indeterminate or Poor Sample Quality,"","","",""
+192,50,50-54,2018,Male,Gash Barka,Gash Barka,None documented,,Gastric,,,,,,,,,,,,,Malignant,Lymphoma,Lymphoma,"","",Unspecified,""
+193,52,50-54,2016,Male,Teraemni,Debub,None documented,,Gastric,,,,,,,,,,,,,Malignant,Lymphoma,Lymphoma,"","",Unspecified,""
+194,70,70-74,2021,Female,Assab,SRS,Dysphagea,3,Distal Esophageal & Gastric,dysphagia,Yes,No,No,No,No,No,No,No,No,No,No,Malignant,Malignancy,Other Malignancies,"",Unspecified,Unspecified,""
+195,50,50-54,2021,Female,tseazega,Debub,None documented,,Gastric,,,,,,,,,,,,,Malignant,Malignancyadenocarcinoma,Adenocarcinoma,Mucinous Adenocarcinoma,"",Unspecified,""
+196,56,55-59,2021,Male,Asmara,Maekel,EGP; vomiting; weight loss,,Gastric,,,,,,,,,,,,,Malignant,MALT lymphoma,Lymphoma,"","",Unspecified,""
+197,40,40-44,2016,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,pancreatic cancer,Other Malignancies,"",Pancreatic cancer,Unspecified,""
+198,33,30-34,2021,Female,Asmara,Maekel,EGP; dyspepsia; vomiting,,Gastric,,,,,,,,,,,,,Malignant,sigent cell carcionma,Adenocarcinoma,Signet ring cell carcinoma,"",Unspecified,""
+199,51,50-54,2017,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,signet cell adenocarcinoma,Adenocarcinoma,Signet ring cell carcinoma,"",Unspecified,""
+200,55,55-59,2017,Male,Anseba,Anseba,None documented,,Gastric,,,,,,,,,,,,,Malignant,Signet cell carcinoma,Adenocarcinoma,Signet ring cell carcinoma,"",Unspecified,""
+201,42,40-44,2017,Male,Meo,NRS,None documented,,Gastric,,,,,,,,,,,,,Malignant,signet cell carcinoma,Adenocarcinoma,Signet ring cell carcinoma,"",Unspecified,""
+202,62,60-64,2017,Male,NRS,NRS,None documented,,Gastric,,,,,,,,,,,,,Malignant,signet cell carcinoma,Adenocarcinoma,Signet ring cell carcinoma,"",Unspecified,""
+203,50,50-54,2018,Male,NRS,NRS,None documented,,Gastric,,,,,,,,,,,,,Malignant,signet cell carcinoma,Adenocarcinoma,Signet ring cell carcinoma,"",Unspecified,""
+204,76,75-79,2021,Male,Asmara,Maekel,EGP; vomiting; weight loss,,Gastric,,,,,,,,,,,,,Malignant,Signet ring carcinoma,Adenocarcinoma,Signet ring cell carcinoma,"",Unspecified,""
+205,66,65-69,2017,Male,Adi Keyh,Debub,None documented,,Gastric,,,,,,,,,,,,,Malignant,Signet ring cell carcinoma of gastric,Adenocarcinoma,Signet ring cell carcinoma,"",Unspecified,""
+206,21,20-24,2014,Male,Mendefera,Debub,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Squmous cell dysplasia,Squamous Cell Carcinoma,"","","",""
+207,11,10-14,2018,Female,NRS,NRS,None documented,,Gastric,,,,,,,,,,,,,Malignant,small cell tumor,Other Malignancies,"",Small Cell tumor,Unspecified,""
+208,73,70-74,2017,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,Sqomous cell carcinoma,Squamous Cell Carcinoma,"","",Unspecified,""
+209,67,65-69,2018,Male,Asmara,Maekel,None documented,,Distal Esophageal & Gastric,,,,,,,,,,,,,Malignant,Squmous cell carcinoma,Squamous Cell Carcinoma,"","",Unspecified,""
+210,66,65-69,2013,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Ulcer,Non-Neoplastic Diseases,"","","",Gastric Ulcer
+211,80,80-84,2017,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Ulcer,Non-Neoplastic Diseases,"","","",Gastric Ulcer
+212,65,65-69,2013,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,ulcus necrosis,Non-Neoplastic Diseases,"","","",Ulcer Necrosis
+213,42,40-44,2017,Male,Tesseney,Gash Barka,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,ulcus necrosis,Non-Neoplastic Diseases,"","","",Ulcer Necrosis
+214,72,70-74,2013,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,Squmous cell carcinoma,Squamous Cell Carcinoma,"","",Unspecified,""
+215,64,60-64,2013,Female,Kudo abuur,Debub,None documented,,Gastric,,,,,,,,,,,,,Malignant,Squmous cell carcinoma,Squamous Cell Carcinoma,"","",Unspecified,""
+216,62,60-64,2012,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,superficial carcinoma,Other Malignancies,"",Unspecified,Unspecified,""
+217,50,50-54,2012,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,superficial carcinoma,Other Malignancies,"",Unspecified,Unspecified,""
+218,63,60-64,2018,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,Ulcer,Non-Neoplastic Diseases,"","","",Gastric Ulcer
+219,15,15-19,2011,Male,Anseba,Anseba,None documented,,Gastric,,,,,,,,,,,,,Malignant,"",Other Malignancies,"",Unspecified,"",""
+220,61,60-64,2011,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,"",Other Malignancies,"",Unspecified,"",""
+221,67,65-69,2011,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Malignant,"",Other Malignancies,"",Unspecified,"",""
+222,60,60-64,2011,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,"","","","","",""
+223,16,15-19,2018,Female,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,"","","","","",""
+224,36,35-39,2018,Male,Asmara,Maekel,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,"","","","","",""
+225,52,50-54,2011,Female,Debub,Debub,None documented,,Gastric,,,,,,,,,,,,,Malignant,"",Other Malignancies,"",Unspecified,"",""
+226,43,40-44,2011,Female,NRS,NRS,None documented,,Gastric,,,,,,,,,,,,,Not Malignant,"","","","","",""
