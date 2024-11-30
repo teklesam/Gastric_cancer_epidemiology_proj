@@ -1,6 +1,6 @@
 ## README
 
-This is for the project of Lymphoma Epidemiology analysis in Eritrea from National health Laboratory
+This is for the project of Gastric cancer Epidemiology analysis in Eritrea from National health Laboratory
 
 ### License
 
